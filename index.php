@@ -81,7 +81,6 @@ THE SOFTWARE.
 	echo '<br>';
 	system('free');
 	echo '<br>';
-	echo '<br>';
 	system('df -h /');
 	echo '<br>';
 	echo '<textarea disabled id="textarea">';
