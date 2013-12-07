@@ -79,7 +79,7 @@ THE SOFTWARE.
 	echo 'Load average: ' . $loav;
 	echo '<br>';
 	echo '<br>';
-	system('free');
+	system('free -h');
 	echo '<br>';
 	system('df -h /');
 	echo '<br>';
